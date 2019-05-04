@@ -9,6 +9,8 @@ The video is made by stitching together 1000 images from different angles.
 
 **Screenshots**
 ![](https://github.com/NolanCassidy/rasterization-phong-shading/blob/master/frame750.png)
+https://github.com/NolanCassidy/rasterization-phong-shading/blob/master/proj1F_answer.png?raw=true
+
 **Tech/framework used**
 
 >   **Built with**
